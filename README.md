@@ -6,17 +6,18 @@
 ## 介绍
 Community仓库用于管理ArkUI-CrossPlatform社区治理、开发者贡献指南、开发者贡献协议、社区交流等内容。
 
-- 社区治理组织架构
-    - 项目管理委员会
+- 社区治理组织制度
 - [开发者社区贡献指南](https://gitee.com/arkui-crossplatform/doc/blob/master/contribute/README.md)
 - [开发者社区贡献协议](https://dco.openharmony.io/sign/Z2l0ZWUlMkZPcGVuQXRvbQ==)
 - [社区交流](https://gitee.com/arkui-crossplatform/doc/blob/master/contribute/社区沟通与交流.md)
 - [安全问题响应(确认是否需要)](https://gitee.com/openharmony/security)
 - [项目LOGO](/logo)
 
-## 社区治理组织架构
+## 社区治理组织制度
 
 ArkUI-CrossPlatform社区通过项目管理委员会（ Project Management Committee）管理ArkUI-CrossPlatform社区。
+
+详细请参考[ArKUI跨平台社区治理制度](https://gitee.com/arkui-crossplatform/community/blob/master/governance.md)。
 
 ## 开发者社区贡献指南
 
@@ -31,12 +32,9 @@ ArkUI-CrossPlatform社区通过项目管理委员会（ Project Management Commi
 ## 社区交流
 
 ### ArkUI-CrossPlatform maillist 交流方式
-| 地址                                      | 简介                             | 用途说明                                                     |
-| ----------------------------------------- | -------------------------------- | ------------------------------------------------------------ |
-| contact@openharmony.io <img width=150/>   | 公用邮箱 <img width=100/>        | OpenHarmony社区公共邮箱。<img width=200/>                    |
-| ac-dev@openharmony.io  <img width=150/>   | 开发邮件列表 <img width=100/>    | ArkUI-CrossPlatform社区开发讨论邮件列表，任何社区开发相关话题都可以在邮件列表讨论。任何开发者可[订阅](https://lists.openatom.io/postorius/lists/ac-dev.openharmony.io)。<img width=200/> |
-| cicd@openharmony.io <img width=150/>      | CI邮件列表  <img width=100/>     | OpenHarmony CICD构建邮件列表，任何开发者可[订阅](https://lists.openatom.io/postorius/lists/cicd.openharmony.io)。<img width=200/> |
-| ac-pmc@openharmony.io  <img width=150/>   | PMC邮件列表  <img width=100/>    | PMC讨论邮件列表，PMC成员可[订阅](https://lists.openatom.io/postorius/lists/ac-pmc.openharmony.io/)。<img width=200/> |
-| scy@openharmony.io <img width=150/>       | 安全问题邮箱 <img width=100/>    | 开发者可反馈OpenHarmony安全问题到此邮箱。<img width=200/>    |
-| scy-priv@openharmony.io  <img width=150/> | 安全组邮件列表  <img width=100/> | 安全组成员安全问题处理讨论邮件列表，安全组成员可[订阅](https://lists.openatom.io/postorius/lists/scy-priv.openharmony.io/)。<img width=200/> |
+
+| 地址                |  简介   | 用途说明                                                 |
+| ------------------  | ------ | -------------------------------------------------------- |
+| ac-dev@openharmony.io | 开发邮件列表 | ArkUI CrossPlatform社区开发讨论邮件列表，任何社区开发相关话题都可以在邮件列表讨论。任何开发者可[订阅](https://lists.openatom.io/hyperkitty/list/ac-dev@openharmony.io)。|
+| ac-pmc@openharmony.io | PMC邮件列表 | PMC讨论邮件列表，PMC成员可[订阅](https://lists.openatom.io/hyperkitty/list/ac-pmc@openharmony.io)。|
 
