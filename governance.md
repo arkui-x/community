@@ -1,14 +1,14 @@
 # ArKUI跨平台社区治理制度
 
-ArkUI跨平台（ArkUI CrossPlatform）社区由ArkUI CrossPlatform项目管理委员会（Project Management Committee，PMC）负责管理及运作，社区主要参与者是PMC、Committer及Contributor。
+ArkUI-X社区由ArkUI-X项目管理委员会（Project Management Committee，PMC）负责管理及运作，社区主要参与者是PMC、Committer及Contributor。
 
 ## 社区行为准则
 
-请参考[ArkUI CrossPlatform社区行为准则]()。
+请参考[ArkUI-X社区行为准则]()。
 
 ## 社区组织架构
 
-ArkUI CrossPlatform社区设独立的项目管理委员会（PMC）负责项目及社区治理工作。社区主要由PMC、Committer和Contributor参与。
+ArkUI-X社区设独立的项目管理委员会（PMC）负责项目及社区治理工作。社区主要由PMC、Committer和Contributor参与。
 
 ### PMC
 
@@ -53,15 +53,15 @@ Committer负责子领域软件模块架构设计、评审和决策、代码开�
 
 ### Contributor
 
-Contributor参与ArkUI CrossPlatform社区代码贡献、文档贡献、技术方案讨论及设计、解答用户问题。 
-如何贡献，请参考[ArkUI CrossPlatform社区贡献指南](https://gitee.com/arkui-crossplatform/doc/blob/master/contribute/%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE.md)。 
+Contributor参与ArkUI-X社区代码贡献、文档贡献、技术方案讨论及设计、解答用户问题。 
+如何贡献，请参考[ArkUI-X社区贡献指南](https://gitee.com/arkui-x/doc/blob/master/zh-cn/contribute/how-to-contribute.md)。 
 
 Contributor参与社区、保持活跃的途径主要有：
 - 创建或审阅 PR；
 - 提交或评论Issue；
 - 完成社区任务，提交贡献，包括代码、文档等；
 - 参与社区讨论，如例行会议、电子邮件论坛等；
-- 推广ArkUI-CrossPlatform社区，吸引其他Contributor。
+- 推广ArkUI-X社区，吸引其他Contributor。
 
 
 ## 晋升机制
@@ -82,7 +82,7 @@ Contributor参与社区、保持活跃的途径主要有：
 
 ## 决策机制
 
-ArkUI CrossPlatform社区治理过程中主要通过会议讨论、投票达成共识，进行技术决策。PMC基于某个主题发起讨论及投票，所有PMC成员通过“+1”或“-1”形式表示支持或反对。
+ArkUI-X社区治理过程中主要通过会议讨论、投票达成共识，进行技术决策。PMC基于某个主题发起讨论及投票，所有PMC成员通过“+1”或“-1”形式表示支持或反对。
 
 - 涉及架构设计、版本发布等技术决策事项，采用“懒惰共识”原则：
     - 在规定时间内没有反对意见则默认决议通过；
@@ -97,13 +97,13 @@ PMC通过例行会议及邮件列表进行交流。
 
 ### PMC会议
 - 会议时间: 每双周周X xx:00-xx:00
-- 议题申报: ArkUI CrossPlatform PMC Meeting Proposal(链接XXX）。
+- 议题申报: ArkUI-X PMC Meeting Proposal(链接XXX）。
 - 会议主题: 通过邮件通知。
-- 会议通知: 请订阅邮件列表ac-pmc@openharmony.io获取会议链接。
+- 会议通知: 请订阅邮件列表pmc@arkui-x.cn获取会议链接。
 
 ### 邮件列表
 
 | 地址                |  简介   | 用途说明                                                 |
 | ------------------  | ------ | -------------------------------------------------------- |
-| ac-dev@openharmony.io | 开发邮件列表 | ArkUI CrossPlatform社区开发讨论邮件列表，任何社区开发相关话题都可以在邮件列表讨论。任何开发者可[订阅](https://lists.openatom.io/hyperkitty/list/ac-dev@openharmony.io)。|
-| ac-pmc@openharmony.io | PMC邮件列表 | PMC讨论邮件列表，PMC成员可[订阅](https://lists.openatom.io/hyperkitty/list/ac-pmc@openharmony.io)。|
+| dev@arkui-x.cn | 开发邮件列表 | 社区开发讨论邮件列表，任何社区开发相关话题都可以在邮件列表讨论。开发者可订阅。|
+| pmc@arkui-x.cn | PMC邮件列表 | PMC讨论邮件列表，PMC成员可订阅。|
