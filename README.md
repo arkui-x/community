@@ -7,14 +7,13 @@
 Community仓库用于管理ArkUI-X社区治理、开发者贡献指南、开发者贡献协议、社区交流等内容。
 
 - 社区治理组织制度
-- [开发者社区贡献指南](https://gitee.com/arkui-x/doc/blob/master/contribute/README.md)
+- [开发者社区贡献指南](https://gitee.com/arkui-x/doc/blob/master/zh-cn/contribute/README.md)
 - [开发者社区贡献协议](https://dco.arkui-x.cn)
 - [社区交流](https://gitee.com/arkui-x/doc/blob/master/zh-cn/contribute/communication-in-community.md)
-- [项目LOGO](/logo)
 
 ## 社区治理组织制度
 
-ArkUI-X社区通过项目管理委员会（ Project Management Committee）管理ArkUI-X社区。
+ArkUI-X社区通过项目管理委员会（Project Management Committee）管理ArkUI-X社区。
 
 详细请参考[ArKUI-X社区治理制度](https://gitee.com/arkui-x/community/blob/master/governance.md)。
 

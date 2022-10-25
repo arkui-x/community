@@ -8,7 +8,7 @@ The **community** repository stores the following content:
 
 - Community Governance Organizational Structure
     - Project Management Committee
-- [Contributing to the Community](https://gitee.com/arkui-x/doc/blob/master/contribute/README.md)
+- [Contributing to the Community](https://gitee.com/arkui-x/doc/blob/master/zh-cn/contribute/README.md)
 - [Contributor Agreement for Contributing to the Community](https://dco.arkui-x.cn)
 - [Communications in the Community](https://gitee.com/arkui-x/doc/blob/master/zh-cn/contribute/communication-in-community.md)
 
