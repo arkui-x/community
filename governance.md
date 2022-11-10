@@ -104,7 +104,7 @@ PMC通过例行会议及邮件列表进行交流。
 
 ## 代码仓管理制度
 
-ArkUI-X社区代码仓管理制度 - XXX
+[ArkUI-X社区代码仓管理制度](./repository_management_regulations.md)
 
 ### 邮件列表
 
