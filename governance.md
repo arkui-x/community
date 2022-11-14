@@ -1,4 +1,4 @@
-# ArKUI跨平台社区治理制度
+# ArKUI-X社区治理制度
 
 ArkUI-X社区由ArkUI-X项目管理委员会（Project Management Committee，PMC）负责管理及运作，社区主要参与者是PMC、Committer及Contributor。
 
