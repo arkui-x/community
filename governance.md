@@ -27,9 +27,7 @@ PMC由一名主席和若干成员组成，所有PMC成员均有投票权。
   |兰守忍|[@lanshouren](https://gitee.com/lanshouren)|成员|
   |陈功平|[@gongpingde](https://gitee.com/gongpingde)|成员|
   |王树栋|[@wsd_card_admin](https://gitee.com/wsd_card_admin)|成员|
-  |常佳|[@chang-jia](https://gitee.com/chang-jia)|成员|
 
- 
 #### PMC主席
 
 PMC设主席一名，负责PMC总体事务并行使如下职权：
@@ -46,11 +44,11 @@ Committer负责子领域软件模块架构设计、评审和决策、代码开�
 
   |  姓名 |  账号  | 角色 |
   |-----| ----- | ---- |
-  |余枝强|[@yuzhiqiang101](https://gitee.com/yuzhiqiang101)|community、docs、samples仓owner；manifest、build、cli、arkui_for_android、arkui_for_ios仓备份owner|
-  |梁治峰 |[@xuanchuan](https://gitee.com/xuanchuan)|docs、build、samples、cli、arkui_for_android、arkui_for_ios仓备份owner|
-  |杨海银 |[@yanghy22](https://gitee.com/yanghy22)|docs、build、samples、cli、arkui_for_android、arkui_for_ios仓备份owner|
-  |孙斐 |[@sunfei2021](https://gitee.com/sunfei2021)|arkui_for_android、arkui_for_ios仓owner；community、manifest、docs、build、samples、cli、xts仓备份owner|
-  |兰守忍 |[@lanshouren](https://gitee.com/lanshouren)|manifest、build、cli仓owner；community、docs、samples、arkui_for_android、arkui_for_ios、xts仓备份owner|
+  |余枝强|[@yuzhiqiang101](https://gitee.com/yuzhiqiang101)|community、doc、samples仓owner；manifest、build、cli、android、ios仓备份owner|
+  |梁治峰 |[@xuanchuan](https://gitee.com/xuanchuan)|doc、build、samples、cli、android、ios仓备份owner|
+  |杨海银 |[@yanghy22](https://gitee.com/yanghy22)|doc、build、samples、cli、android、ios仓备份owner|
+  |孙斐 |[@sunfei2021](https://gitee.com/sunfei2021)|android、ios仓owner；community、manifest、doc、build、samples、cli、xts仓备份owner|
+  |兰守忍 |[@lanshouren](https://gitee.com/lanshouren)|manifest、build、cli仓owner；community、doc、samples、android、ios、xts仓备份owner|
   |张绕 |[@tomatodevboy](https://gitee.com/tomatodevboy)|xts仓owner|
   |刘果 |[@guoguoliu](https://gitee.com/guoguoliu)|community仓备份owner|
 
@@ -108,9 +106,5 @@ PMC通过例行会议及邮件列表进行交流。
 
 [ArkUI-X社区代码仓管理制度](./repository_management_regulations.md)
 
-### 邮件列表
 
-| 地址                |  简介   | 用途说明                                                 |
-| ------------------  | ------ | -------------------------------------------------------- |
-| dev@arkui-x.cn | 开发邮件列表 | 社区开发讨论邮件列表，任何社区开发相关话题都可以在邮件列表讨论。开发者可订阅。|
-| pmc@arkui-x.cn | PMC邮件列表 | PMC讨论邮件列表，PMC成员可订阅。|
+
