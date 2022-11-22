@@ -27,6 +27,7 @@ PMC由一名主席和若干成员组成，所有PMC成员均有投票权。
   |兰守忍|[@lanshouren](https://gitee.com/lanshouren)|成员|
   |陈功平|[@gongpingde](https://gitee.com/gongpingde)|成员|
   |王树栋|[@wsd_card_admin](https://gitee.com/wsd_card_admin)|成员|
+  |常佳|[@chang-jia](https://gitee.com/chang-jia)|成员|
 
 #### PMC主席
 
