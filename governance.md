@@ -45,13 +45,21 @@ Committer负责子领域软件模块架构设计、评审和决策、代码开�
 
   |  姓名 |  账号  | 角色 |
   |-----| ----- | ---- |
-  |余枝强|[@yuzhiqiang101](https://gitee.com/yuzhiqiang101)|community、doc、samples仓owner；manifest、build、cli、android、ios仓备份owner|
-  |梁治峰 |[@xuanchuan](https://gitee.com/xuanchuan)|doc、build、samples、cli、android、ios仓备份owner|
-  |杨海银 |[@yanghy22](https://gitee.com/yanghy22)|doc、build、samples、cli、android、ios仓备份owner|
-  |孙斐 |[@sunfei2021](https://gitee.com/sunfei2021)|android、ios仓owner；community、manifest、doc、build、samples、cli、xts仓备份owner|
-  |兰守忍 |[@lanshouren](https://gitee.com/lanshouren)|manifest、build、cli仓owner；community、doc、samples、android、ios、xts仓备份owner|
-  |张绕 |[@tomatodevboy](https://gitee.com/tomatodevboy)|xts仓owner|
+  |余枝强|[@yuzhiqiang101](https://gitee.com/yuzhiqiang101)|community、docs、samples仓owner；manifest、build_plugins、plugins、cli、arkxtest、xts、productdefine、app_framework、arkui_for_android、arkui_for_ios、interface_sdk仓备份owner|
+  |梁治峰 |[@xuanchuan](https://gitee.com/xuanchuan)|docs、plugins、build_plugins、samples、cli、arkui_for_android、arkui_for_ios仓备份owner|
+  |杨海银 |[@yanghy22](https://gitee.com/yanghy22)|docs、plugins、build_plugins、samples、cli、arkui_for_android、arkui_for_ios仓备份owner|
+  |孙斐 |[@sunfei2021](https://gitee.com/sunfei2021)|app_framework、arkui_for_android、arkui_for_ios仓owner；community、docs、samples、manifest、build_plugins、plugins、cli、arkxtest、xts、productdefine、interface_sdk仓备份owner|
+  |兰守忍 |[@lanshouren](https://gitee.com/lanshouren)|manifest、build_plugins、cli、plugins、interface_sdk、productdefine仓owner；community、docs、samples、app_framework、arkui_for_android、arkui_for_ios、xts、arkxtest仓备份owner|
+  |张绕 |[@tomatodevboy](https://gitee.com/tomatodevboy)|xts仓备份owner|
   |刘果 |[@guoguoliu](https://gitee.com/guoguoliu)|community仓备份owner|
+  |李俊杰 |[@lijj01](https://gitee.com/lijj01)|app_framework仓备份owner|
+  |曹春雷 |[@ccllee](https://gitee.com/ccllee)|app_framework仓备份owner|
+  |任熠 |[@inter515](https://gitee.com/inter515)|arkxtest仓owner；xts仓备份owner|
+  |纪永 |[@jiyong_sd](https://gitee.com/jiyong_sd)|xts仓owner|
+  |陈牡丹 |[@chenmudan](https://gitee.com/chenmudan)|productdefine、build_plugins、interface_sdk仓备份owner|
+  |夏登平 |[@xiadengping](https://gitee.com/xiadengping)|interface_sdk仓备份owner|
+  |杨妮 |[@neeen](https://gitee.com/neeen)|docs仓备份owner|
+  |时睿 |[@RayShih](https://gitee.com/RayShih)|docs仓备份owner|
 
 ### Contributor
 
