@@ -60,7 +60,8 @@ Committer负责子领域软件模块架构设计、评审和决策、代码开�
   |夏登平 |[@xiadengping](https://gitee.com/xiadengping)|interface_sdk仓备份owner|
   |杨妮 |[@neeen](https://gitee.com/neeen)|docs仓备份owner|
   |时睿 |[@RayShih](https://gitee.com/RayShih)|docs仓备份owner|
-  |晏国淇 |[@bruceyan](https://gitee.com/bruceyan)|manifest、docs、arkui_for_android、arkui_for_ios、plugins、build_plugins、app_framework、cli、samples、interface_sdk仓备份owner|
+  |晏国淇 |[@bruceyan](https://gitee.com/bruceyan)|codelabs仓owner;manifest、docs、arkui_for_android、arkui_for_ios、plugins、build_plugins、app_framework、cli、samples、interface_sdk仓备份owner|
+  |刘龙 |[@longruoluo](https://gitee.com/longruoluo)|codelabs仓备份owner|
 
 ### Contributor
 

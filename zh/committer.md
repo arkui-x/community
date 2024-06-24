@@ -14,4 +14,5 @@
 |12|app_framework|    https://gitee.com/sunfei2021    |    sunfei.sun@huawei.com     | https://gitee.com/yuzhiqiang101 <br/>https://gitee.com/lanshouren<br/>https://gitee.com/ccllee  <br/>https://gitee.com/lijj01<br/> https://gitee.com/bruceyan |      yuzhiqiang5@huawei.com<br/> lanshouren@huawei.com<br/> caochunlei1@huawei.com <br/>lijunjie29@huawei.com<br/> yanguoqi1@huawei.com    |                NA                 |
 |13|                    productdefine                     |    https://gitee.com/lanshouren    |    lanshouren@huawei.com     | https://gitee.com/yuzhiqiang101 <br/>https://gitee.com/sunfei2021<br/>https://gitee.com/chenmudan |      yuzhiqiang5@huawei.com<br/>  sunfei.sun@huawei.com<br/>chenmudan@huawei.com      |                NA                 |
 |14| arkxtest | https://gitee.com/inter515 | ry.renyi@huawei.com | https://gitee.com/lanshouren <br/> https://gitee.com/sunfei2021<br/>https://gitee.com/yuzhiqiang101 | lanshouren@huawei.com<br/> sunfei.sun@huawei.com<br/>yuzhiqiang5@huawei.com | NA |
+|15| codelabs | https://gitee.com/bruceyan | yanguoqi1@huawei.com | https://gitee.com/longruoluo | long.liu@huawei.com | NA |
 
